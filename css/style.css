@@ -9,3 +9,11 @@
 #fontFjalla{
 	font-family: 'Fjalla One', sans-serif;
 }
+
+body {
+    background-color: #F7F8F3;
+}
+
+.effect:hover{
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
